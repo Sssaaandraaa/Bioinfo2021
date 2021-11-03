@@ -2,3 +2,5 @@
 Example repository for the course "Bioinformatik für Tier- und Pflanzenwissenschaften" 
 
 Adding some example text
+
+Some extra test to make sure it works !!!!
